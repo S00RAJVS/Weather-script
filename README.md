@@ -1,38 +1,37 @@
-```markdown
+
 # 🌦 Weather App (Python)
 
 A simple Python program that fetches real-time weather information for any city using the OpenWeather API.  
 Displays temperature, weather condition, humidity, and wind speed in a user-friendly format.
 
----
 
+---
 ## Features
 - Get current weather for any city worldwide  
 - Shows temperature (°C), condition, humidity, and wind speed  
 - Works on Windows, Linux, and macOS  
 
----
 
+---
 ## Prerequisites
 - Python 3 installed  
 - An API key from [OpenWeather](https://openweathermap.org/api)  
 - `requests` library:  
-```
 
-pip install requests
+```pip install requests ```
 
-```
 
 ---
-
 ## Installation
 1. Clone this repository:
-```
 
+```
 git clone [https://github.com/your-username/weather-app.git](https://github.com/your-username/weather-app.git)
 cd weather-app
 
 ```
+
+
 2. Open `weather.py` and replace:
 ```
 
