@@ -1,5 +1,5 @@
 
-# 🌦 Weather App (Python)
+# 🌦 Weather (Python)
 
 A simple Python program that fetches real-time weather information for any city using the OpenWeather API.  
 Displays temperature, weather condition, humidity, and wind speed in a user-friendly format.
