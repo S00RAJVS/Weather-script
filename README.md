@@ -26,8 +26,8 @@ Displays temperature, weather condition, humidity, and wind speed in a user-frie
 1. Clone this repository:
 
 ```
-git clone [https://github.com/your-username/weather-app.git](https://github.com/your-username/weather-app.git)
-cd weather-app
+git clone https://github.com/S00RAJVS/Weather-script.git
+cd Weather-script
 
 ```
 
