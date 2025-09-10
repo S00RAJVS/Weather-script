@@ -84,7 +84,3 @@ You are free to use, modify, and distribute this project, but it comes **without
 
 Created by **SOORAJ VS** ✨
 If you like this project, ⭐ it on GitHub!
-
-
-## Author
-SOORAJ VS
