@@ -73,6 +73,18 @@ Wind Speed: 3.5 m/s
 - Can be extended with features like GUI, forecasts, or improved error handling.
 
 ---
+## 📜 License
+
+This project is licensed under the [MIT License](LICENSE).
+You are free to use, modify, and distribute this project, but it comes **without warranty**.
+
+---
+
+## 👨‍💻 Author
+
+Created by **SOORAJ VS** ✨
+If you like this project, ⭐ it on GitHub!
+
 
 ## Author
 SOORAJ VS
